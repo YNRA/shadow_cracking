@@ -8,7 +8,7 @@
 # Import mandatory librairies
 import time, sys, os
 import multiprocessing
-import hashlib import md5
+from hashlib import md5
 from string import ascii_lowercase, ascii_letters, digits
 from itertools import product
 from datetime import timedelta
