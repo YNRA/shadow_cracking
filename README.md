@@ -10,7 +10,7 @@
 
 ## Installation & Usage
 
-[Optionnal] After you've cloned the repo, add a shadow and a password files to the folder.
+[Optional] After you've cloned the repo, add a shadow and a password files to the folder.
 
 ```bash
 git clone https://github.com/YNRA/shadow_cracking.git
